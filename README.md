@@ -1,13 +1,13 @@
 # Portfolio Website
 This is a  my personal portfolio website, showcasing myskills, experience, and projects. The website is built with HTML, CSS, and JavaScript.
 **Table of Contents**
-Features
-Technologies Used
-Installation
-Usage
-Folder Structure
-Scripts
-Contact
+1.Features
+2.Technologies Used
+3.Installation
+4.Usage
+5.Folder Structure
+6.Scripts
+7.Contact
 **Features**
 Home Section: Introduction and navigation to different sections of the website.
 About Section: Detailed information about Divyanshu Patel, including skills, experience, and education.
@@ -21,3 +21,4 @@ CSS: Stylesheet language for designing the layout and appearance.
 JavaScript: Programming language for adding interactive functionality.
 Font Awesome: Icon library for adding icons.
 Google Apps Script: Script to handle form submissions to Google Sheets.
+
